@@ -1,0 +1,39 @@
+.PlayerInfo {
+	float: left;
+	border-style: solid;
+}
+.PlayerInfo .partner{
+	position: relative;
+	text-align: left;
+	left: 0rem;
+	width: 10rem;
+}
+.PlayerInfo .cash{
+	position: relative;
+	text-align: left;
+	left: 0rem;
+	width: 10rem;
+}
+
+.PlayerInfo .EachStock{
+	position: relative;
+	text-align: left;
+	left: 0rem;
+	width: 10rem;
+}
+
+
+.PlayerInfo .partner .ImagePartner{
+	/*float: left;*/
+	width: 2rem;
+}
+
+.PlayerInfo .cash .PlayerCash{
+	/*float: left;*/
+	width: 2rem;
+}
+
+.PlayerInfo .EachStock .ImageStock{
+	/*float: left;*/
+	width: 2rem;
+}

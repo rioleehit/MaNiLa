@@ -39,7 +39,7 @@
 .DebugPanel #sea_route{
   position: absolute;
   border-style: dashed;
-  top: 16rem;
+  top: 40rem;
   left: 0rem;
 }
 .DebugPanel .RoomPilot{
@@ -65,4 +65,51 @@
   border-style: dashed;
   position: absolute;
   left:  64rem;
+}
+
+.DebugPanel .DockTerminal{
+  border-style: dashed;
+  position:  absolute;
+}
+
+.DebugPanel #destination1{
+  top: 16rem;
+  left: 0rem;
+}
+
+.DebugPanel #destination2{
+  top: 16rem;
+  left: 5rem;
+}
+
+.DebugPanel #destination3{
+  top: 16rem;
+  left: 10rem;
+}
+.DebugPanel #playerInfo{
+  position: absolute;
+  top: 16rem;
+  left: 20rem;
+}
+
+.DebugPanel #repair1{
+  top: 28rem;
+  left: 0rem;
+}
+
+.DebugPanel #repair2{
+  top: 28rem;
+  left: 5rem;
+}
+
+.DebugPanel #repair3{
+  top: 28rem;
+  left: 10rem;
+}
+
+.DebugPanel #stockBoard{
+  border-style: dashed;
+  position:  absolute;
+  top: 28rem;
+  left: 20rem;
 }
