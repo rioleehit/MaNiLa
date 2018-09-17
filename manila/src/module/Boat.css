@@ -1,0 +1,29 @@
+.Boat{
+	text-align: center;
+	width: 2rem;
+	height: 10rem;
+	border-style: solid;
+	border-width: 3px;
+}
+
+.Boat .PosCost{
+		position: relative;
+		margin-top: 0.6rem;
+	}
+#boat1{
+	background-color: yellow;
+	
+}
+#boat2{
+	background-color: purple;
+}
+#boat3{
+	background-color: brown;
+}
+#boat4{
+	background-color: green;
+}
+#boat4 .PosCost{
+		position: relative;
+		margin-top: 0.2rem;
+	}

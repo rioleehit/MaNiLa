@@ -1,0 +1,22 @@
+
+.PosCost{
+	background: rgba(255, 255, 255, 0.7);
+	border-radius:50%;
+	width: 1.8rem;
+	height: 1.8rem;
+	
+	/* Firefox */
+	display:-moz-box;
+	-moz-box-pack:center;
+	-moz-box-align:center;
+
+	/* Safari, Chrome, and Opera */
+	display:-webkit-box;
+	-webkit-box-pack:center;
+	-webkit-box-align:center;
+
+	/* W3C */
+	display:box;
+	box-pack:center;
+	box-align:center;
+}

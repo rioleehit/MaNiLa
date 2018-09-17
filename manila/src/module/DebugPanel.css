@@ -1,0 +1,68 @@
+
+.DebugPanel{
+  position: absolute;
+}
+.DebugPanel #boat1{
+  position: absolute;
+  left: 1rem;
+}
+.DebugPanel #boat2{
+  position: absolute;
+  left: 3.5rem;
+}
+
+.DebugPanel #boat3{
+  position: absolute;
+  left: 6rem;
+}
+.DebugPanel #boat4{
+  position: absolute;
+  left: 8.5rem;
+}
+
+.DebugPanel #single_dice{
+  border-style: dashed;
+  position: absolute;
+  left: 12rem;
+  width: 6rem;
+  height: 6rem;
+}
+
+.DebugPanel #debug_boat_dice{
+  /*position: absolute;*/
+  border-style: dashed;
+  left: 20rem;
+/*  width: 23rem;
+  height: 6rem;*/
+}
+
+.DebugPanel #sea_route{
+  position: absolute;
+  border-style: dashed;
+  top: 16rem;
+  left: 0rem;
+}
+.DebugPanel .RoomPilot{
+  border-style: dashed;
+}
+
+.DebugPanel #pilot1{
+  position: absolute;
+  left:45rem;
+}
+.DebugPanel #pilot2{
+  position: absolute;
+  left:52rem;
+}
+
+.DebugPanel #pirate{
+  position: absolute;
+  border-style: dashed;
+  left:59rem;
+}
+
+.DebugPanel .RoomInsurance{
+  border-style: dashed;
+  position: absolute;
+  left:  64rem;
+}

@@ -1,0 +1,41 @@
+.SeaRoute {
+	width: 24rem;
+	height: 38rem;
+}
+.SeaRoute .Line{
+	float: left;
+	border-style: solid;
+	border-width: 1px;
+	width: 7rem;
+	left: 1rem;
+	position: relative;
+}
+.SeaRoute .Line #boat1{
+	left: 1rem;
+	
+}
+.SeaRoute .Line #boat2{
+	left: 1rem;
+	
+}
+.SeaRoute .Line #boat3{
+	left: 1rem;
+	
+}
+.SeaRoute .Line #boat4{
+	left: 1rem;
+	
+}
+.SeaRoute .Line .Item{
+	width: 2rem;
+	height: 2rem;
+}
+
+.SeaRoute #boat_dice{
+  position: absolute;
+  border-style: dashed;
+  bottom: 0rem;
+  left: 0.5rem;
+  width: 23rem;
+  height: 6rem;
+}
